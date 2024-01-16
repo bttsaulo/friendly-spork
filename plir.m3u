@@ -1,61 +1,41 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="RecordNews.br",Record News (720p)
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
-
 #EXTINF:-1 tvg-id="Geekdot.br",Geekdot (720p)
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
-
 #EXTINF:-1 tvg-id="CartoonNetworkLive.br",Cartoon Network FreeLive Brazil (720p)
 https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AllSports.br",All Sports (720p)
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Record.br",RecordTV
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="RedeBrasil.br",Rede Brasil (432p)
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8
-
 #EXTINF:-1 tvg-id="TVAratu.br",TV Aratu (720p)
 https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TVAparecida.br",TV Aparecida (1080p) [Not 24/7]
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-
 #EXTINF:-1 tvg-id="NovoTempo.br",Novo Tempo (720p)
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="BandMinasGerais.br",Band Minas (720p) [Not 24/7]
 http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RedeVida.br",Rede Vida (720p) [Not 24/7]
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TVCamara.br",TV Câmara (1080p)
 https://stream3.camara.gov.br/tv1/manifest.m3u8
-
 #EXTINF:-1 tvg-id="TVGazeta.br",TV Gazeta (720p)
 https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TVEBahia.br",TVE BA (1080p)
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CBSNewsBaltimore.us",CBS News Baltimore (720p)
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
-
 #EXTINF:-1 tvg-id="ABCNewsLive1.us",ABC News Live 1 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
-
 #EXTINF:-1 tvg-id="MTV.jp",MTV Japan (720p)
 http://jp.vthanhnetwork.com/MTV/index.m3u8
-
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp",NHK World Japan (1080p)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-
 #EXTINF:-1 tvg-id="CartoonNetwork.jp",Cartoon Network Japan (400p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
-
 #EXTINF:-1 tvg-id="RetroCartoon.br",Retrô Cartoon (480p) [Not 24/7]
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
